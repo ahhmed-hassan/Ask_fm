@@ -1,5 +1,5 @@
 # Ask_fm
-**System of questions and answers**
+**System of questions and answers _Written in C++_** 
 ## The program has the following functionalities:
 - Basic Login and Signup
 - Asking Questions to another User

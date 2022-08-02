@@ -8,5 +8,4 @@
 - Every question can have its thread ***another questions replying to it***
 - Listing the feed 
 - Listing the System users
-
-It's a file-based System, so everytime you close the program System will be updated
+- It's a file-based System, so everytime you close the program System will be updated
